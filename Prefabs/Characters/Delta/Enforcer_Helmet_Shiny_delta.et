@@ -1,0 +1,14 @@
+GameEntity : "{0408ADABE28CC8CE}Prefabs/Characters/Headgear/Enforcer_Helmet_Shiny.et" {
+ ID "5112706CD4157AC7"
+ components {
+  BaseRadioComponent "{697F15D7E2143C6D}" {
+   Transceivers {
+    RadioTransceiver "{697F15D7A049D884}" {
+     ChannelFrequency 20000
+     "Min tunable frequency" 20000
+     "Max tunable frequency" 29500
+    }
+   }
+  }
+ }
+}

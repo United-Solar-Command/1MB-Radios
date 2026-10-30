@@ -1,0 +1,57 @@
+GenericEntity : "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/Radio_ANPRC68.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  BaseRadioComponent "{5A30BAE7673C63CA}" {
+   "Encryption key" "PewPew"
+   Transceivers {
+    RadioTransceiver "{5A6C8885A4D45664}" {
+     ChannelFrequency 0
+     "Transmitting Range" 1
+     "Min tunable frequency" 0
+     "Max tunable frequency" 0
+     "Frequency resolution" 0
+    }
+    RadioTransceiver "{5A8E721FD75D0F5F}" {
+     ChannelFrequency 0
+     "Transmitting Range" 1
+     "Min tunable frequency" 0
+     "Max tunable frequency" 0
+     "Frequency resolution" 0
+    }
+    EditorFactionTransceiver "{6ABCE487C02FC480}" {
+    }
+   }
+  }
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "Helmet Radio (R)"
+     Description "Long range helmet attachment. Set for 60.0 Khz to speak to GM / Command. 61-67 is for leadership and mednet."
+    }
+    ItemAnimationAttributes ItemAnimationAttributes "{5A6C68D9F96BC9BE}" {
+     HandAdditiveRotation 90 0 0
+     HandAdditiveTranslation 0 0.1 0
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{52D493152DA704BA}" {
+      CameraOrbitAngles 20 70 55
+      CameraOffset 0 -0.02 0
+      FOV 7
+     }
+     BON_HideInFirstPersonAttribute "{6ABCE4870A297C2E}" {
+     }
+    }
+    CommonItemType "GF_RADIO_HELMET"
+   }
+  }
+  MeshObject "{5A30BAE7673C63D1}" {
+   Object "{8CF1C1B7838E639D}Assets/Items/Equipment/Radios/Helmet_Radio/Enforcer_Helmet_Radio.xob"
+  }
+  ProcAnimComponent "{5A30BAE7673C63A9}" {
+   Enabled 0
+  }
+  SCR_RadioComponent "{5A30BAE7673C63D4}" {
+   m_iRadioType ANPRC77
+  }
+ }
+}

@@ -1,0 +1,31 @@
+GenericEntity : "{C95E11C60810F432}Prefabs/Items/Core/Item_Base.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  SignalsManagerComponent "{6ABCE487A27C6507}" {
+  }
+  BaseRadioComponent "{6ABCE487A27C64EC}" {
+   "Encryption key" "PewPew"
+   "Turned on" 1
+   "Editor radio" 1
+   Transceivers {
+    EditorFactionTransceiver "{6ABCE486A9DF2FFF}" {
+     EditorFaction "ENFORCERS"
+    }
+   }
+  }
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "Helmet Radio (GM)"
+     Description "Long range helmet attachment. Set for 60.0 Khz to speak to GM / Command. 61-67 is for leadership and mednet."
+    }
+    CustomAttributes {
+     CharacterModifierAttributes "{6ABCE487A27C64EB}" {
+     }
+    }
+    CommonItemType "GF_RADIO_HELMET"
+    m_SlotType SLOT_GADGETS_STORAGE
+   }
+  }
+ }
+}
