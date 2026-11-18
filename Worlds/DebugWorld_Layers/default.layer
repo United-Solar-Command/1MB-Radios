@@ -1,0 +1,108 @@
+GenericEntity : "{077D1C0A9E8CD911}Prefabs/Items/Equipment/2.Alpha/Enforcer_radio_backpack_alpha.et" {
+ coords 68.396 1.906 228.807
+}
+GenericEntity : "{1FB273CAC6F48056}Prefabs/Items/Equipment/2.Alpha/Enforcer_short_radio_backpack_alpha.et" {
+ coords 69.34 1.906 228.735
+}
+GenericEntity : "{2ECD00A58BCFA2AF}Prefabs/Items/Equipment/4.Charlie/USC_Handheld_Radio_charlie.et" {
+ coords 74.289 1.906 228.666
+}
+GenericEntity : "{3B00D6B267E8D3E6}Prefabs/Items/Equipment/2.Alpha/Enforcer_Radio_alpha.et" {
+ coords 68.965 1.994 228.805
+}
+GenericEntity : "{42993445370B2D81}Prefabs/Items/Equipment/3.Bravo/USC_Handheld_Radio_bravo.et" {
+ coords 71.911 1.906 228.894
+}
+GameEntity : "{497E184B7FB8B8C7}Prefabs/Characters/Headgear/Enforcer_Helmet_Pilot_Base.et" {
+ coords 84.753 1.906 229.027
+ angles 0 180 0
+}
+GenericEntity : "{54A54AD56116B0C1}Prefabs/Items/Equipment/6.Echo/USC_Handheld_Radio_echo.et" {
+ coords 79.166 1.906 228.757
+}
+GenericEntity : "{5754E252DB2C5CC8}Prefabs/Items/Equipment/5.Delta/Enforcer_Radio_delta.et" {
+ coords 75.854 2.035 228.782
+}
+GenericEntity : "{6B2928EA2248563F}Prefabs/Items/Equipment/5.Delta/Enforcer_radio_backpack_delta.et" {
+ coords 75.368 1.906 228.802
+}
+GenericEntity : "{6FAB06B50E11C4AE}Prefabs/Items/Equipment/Accessories/Medic_Visor_1MB.et" {
+ coords 89.714 1.949 228.793
+}
+GenericEntity : "{73E6472A7A300F78}Prefabs/Items/Equipment/5.Delta/Enforcer_short_radio_backpack_delta.et" {
+ coords 76.324 1.906 228.796
+}
+$grp GenericEntity : "{7FAD117D4267A4B6}Prefabs/Items/Equipment/1.Command/USC_Handheld_Radio_cmd.et" {
+ {
+  coords 67.563 1.906 228.646
+ }
+ {
+  coords 90.666 1.906 228.757
+ }
+}
+GenericEntity : "{7FAD117D4267A4B7}Prefabs/Items/Equipment/7.Foxtrot/USC_Handheld_Radio_foxtrot.et" {
+ coords 81.483 1.957 228.82
+}
+GenericEntity : "{8EB564132EADC154}Prefabs/Items/Equipment/4.Charlie/Enforcer_radio_backpack_charlie.et" {
+ coords 73.006 1.906 228.776
+}
+GenericEntity : "{967A0BD376D59813}Prefabs/Items/Equipment/4.Charlie/Enforcer_short_radio_backpack_charlie.et" {
+ coords 73.899 1.906 228.818
+}
+GenericEntity : "{A70578BC3BEEBAEA}Prefabs/Items/Equipment/2.Alpha/USC_Handheld_Radio_alpha.et" {
+ coords 69.861 1.906 228.783
+}
+GameEntity : "{A83A1954980792F6}Prefabs/Characters/Headgear/Enforcer_Helmet_Pilot_Base_test.et" {
+ coords 85.148 1.906 228.852
+ angles 0 180 0
+}
+GenericEntity : "{B2C8AEABD7C9CBA3}Prefabs/Items/Equipment/4.Charlie/Enforcer_Radio_charlie.et" {
+ coords 73.462 1.998 228.733
+}
+GameEntity : "{BCA4084A33D5CD52}Prefabs/Characters/Headgear/Enforcer_Helmet_Base.et" {
+ coords 97.616 1.906 229.093
+}
+$grp GenericEntity : "{C71A1A0BBF7D9E0A}Prefabs/Items/Equipment/1.Command/Enforcer_short_radio_backpack_cmd.et" {
+ {
+  coords 67.158 1.906 228.875
+ }
+ {
+  coords 85.54 1.906 228.947
+ }
+}
+GenericEntity : "{C71A1A0BBF7D9E0B}Prefabs/Items/Equipment/7.Foxtrot/Enforcer_short_radio_backpack_foxtrot.et" {
+ coords 81.082 1.906 228.787
+}
+GenericEntity : "{C8A0E4DB3D10D9CD}Prefabs/Items/Equipment/6.Echo/Enforcer_Radio_echo.et" {
+ coords 78.152 1.99 228.797
+}
+GenericEntity : "{CB514C5C872A35C4}Prefabs/Items/Equipment/5.Delta/USC_Handheld_Radio_delta.et" {
+ coords 76.71 1.906 228.693
+}
+GenericEntity : "{DE9C9A4B6B0D448D}Prefabs/Items/Equipment/3.Bravo/Enforcer_Radio_bravo.et" {
+ coords 71.12 1.969 228.806
+}
+GenericEntity : "{DFD575CBE705C74D}Prefabs/Items/Equipment/1.Command/Enforcer_radio_backpack_cmd.et" {
+ coords 66.221 1.906 228.826
+}
+GenericEntity : "{DFD575CBE705C74E}Prefabs/Items/Equipment/7.Foxtrot/Enforcer_radio_backpack_foxtrot.et" {
+ coords 80.068 1.906 228.784
+}
+GenericEntity : "{E2E150F392694E7A}Prefabs/Items/Equipment/3.Bravo/Enforcer_radio_backpack_bravo.et" {
+ coords 70.714 1.906 228.949
+}
+GenericEntity : "{E3A8BF731E61CDBA}Prefabs/Items/Equipment/1.Command/Enforcer_Radio_cmd.et" {
+ coords 66.83 2.029 228.684
+}
+GenericEntity : "{E3A8BF731E61CDBB}Prefabs/Items/Equipment/7.Foxtrot/Enforcer_Radio_foxtrot.et" {
+ coords 80.596 2.019 228.732
+}
+GenericEntity : "{EC1241A39C0C8A7D}Prefabs/Items/Equipment/6.Echo/Enforcer_short_radio_backpack_echo.et" {
+ coords 78.687 1.906 228.891
+}
+GenericEntity : "{F4DD2E63C474D33A}Prefabs/Items/Equipment/6.Echo/Enforcer_radio_backpack_echo.et" {
+ coords 77.675 1.906 228.735
+}
+GenericEntity : "{FA2E3F33CA11173D}Prefabs/Items/Equipment/3.Bravo/Enforcer_short_radio_backpack_bravo.et" {
+ coords 71.527 1.906 228.779
+}

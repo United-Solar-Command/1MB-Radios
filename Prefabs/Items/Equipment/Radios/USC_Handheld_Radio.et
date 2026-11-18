@@ -1,3 +1,11 @@
-GenericEntity : "{59ECB330B727CCB4}Prefabs/Items/Equipment/Radios/USC_Handheld_Radio.et" {
+GenericEntity : "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/Radio_ANPRC68.et" {
  ID "508AB2013EEE1E00"
+ components {
+  GEK_ReceiveOnly_Radio "{6AE412895B48503C}" {
+   m_eAnimVariable ANPRC68
+  }
+  SCR_RadioComponent "{5A30BAE7673C63D4}" {
+   Enabled 0
+  }
+ }
 }

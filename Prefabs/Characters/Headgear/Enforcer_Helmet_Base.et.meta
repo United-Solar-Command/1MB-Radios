@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{3CC6717296BD6848}Prefabs/Items/Core/Radio_base.et"
+ Name "{BCA4084A33D5CD52}Prefabs/Characters/Headgear/Enforcer_Helmet_Base.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
@@ -9,9 +9,9 @@ MetaFileClass {
   }
   EntityTemplateResourceClass PS4 : PC {
   }
-  EntityTemplateResourceClass PS5 : PC {
-  }
   EntityTemplateResourceClass HEADLESS : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
   }
  }
 }

@@ -1,0 +1,3 @@
+SubScene {
+ Parent "{FC69D6EF0C6F765B}Worlds/GF_DebugWorld/GF_DebugWorld.ent"
+}

@@ -1,0 +1,67 @@
+$grp StaticModelEntity : "{5B66620F4D614BE1}Prefabs/Structures/Walls/Concrete/SilageWall_01/SilageWall_01_base.et" {
+ {
+  coords 90.104 0 229.535
+ }
+ {
+  coords 85.105 0 229.535
+ }
+ {
+  coords 80.352 0 229.535
+ }
+ {
+  coords 75.353 0 229.535
+ }
+ {
+  coords 70.379 0 229.535
+ }
+ {
+  coords 65.381 0 229.535
+ }
+ {
+  coords 94.915 0 229.535
+ }
+}
+$grp GenericEntity : "{757FCCE8E756175C}Prefabs/Props/Furniture/MeetingTable_01.et" {
+ {
+  coords 92.482 1 228.834
+ }
+ {
+  coords 90.169 1 228.834
+ }
+ {
+  coords 87.852 1 228.834
+ }
+ {
+  coords 85.539 1 228.834
+ }
+ {
+  coords 78.46 1 228.824
+ }
+ {
+  coords 69.181 1 228.834
+ }
+ {
+  coords 71.494 1 228.834
+ }
+ {
+  coords 76.124 1 228.834
+ }
+ {
+  coords 73.811 1 228.834
+ }
+ {
+  coords 83.09 1 228.824
+ }
+ {
+  coords 80.773 1 228.824
+ }
+ {
+  coords 66.853 1 228.825
+ }
+ {
+  coords 94.804 1 228.834
+ }
+ {
+  coords 97.172 1 228.834
+ }
+}

@@ -1,3 +1,48 @@
 GenericEntity : "{E69149E84E9E20DC}Prefabs/Items/Equipment/Radios/Enforcer_radio_backpack.et" {
  ID "508AB2013EEE1E00"
+ components {
+  BaseRadioComponent "{5A30BAE7673C63CA}" {
+   Transceivers {
+    RadioTransceiver "{5EA4A89F0D06E18F}" {
+     "Max tunable frequency" 69500
+    }
+   }
+  }
+  MeshObject "{5A30BAE7673C63D1}" {
+   Object "{48312FF349C396B8}Assets/Items/Equipment/Backpacks/Enforcer_radio_backpack/Enforcer_radio_backpack.xob"
+  }
+  SCR_DeployableInventoryItemInventoryComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "Enforcer Radio Backpack"
+     Description ""
+     Icon ""
+    }
+    ItemPhysAttributes ItemPhysicalAttributes PhysicalAttributes {
+     Weight 1.5
+     SizeSetupStrategy Manual
+     ItemDimensions 20 20 20
+     ItemVolume 4001
+    }
+    CustomAttributes {
+     PreviewRenderAttributes "{5EA4A89F0D06E1A6}" {
+      PreviewModel "{48312FF349C396B8}Assets/Items/Equipment/Backpacks/Enforcer_radio_backpack/Enforcer_radio_backpack.xob"
+     }
+    }
+   }
+  }
+  SCR_RestrictedDeployableSpawnPointComponent "{5EA4A89F0D06E1A8}" {
+   m_sReplacementPrefab "{1A4EDF3192C6247A}Prefabs/Systems/DeployableRadios/DeployableItemRadioReplacementEnforcer.et"
+   m_FactionKey "ENFORCERS"
+   m_iMaxRespawns 5
+   m_bAllowCustomLoadouts 1
+   m_iRespawnGenerationTime 300
+   m_iRespawnGenerationAmount 2
+  }
+  BaseLoadoutClothComponent "{5EA4A89F0D06E1DE}" {
+   WornModel "{48312FF349C396B8}Assets/Items/Equipment/Backpacks/Enforcer_radio_backpack/Enforcer_radio_backpack.xob"
+   ItemModel "{5D955DCA016883CD}Assets/Items/Equipment/Backpacks/Enforcer_radio_backpack/Enforcer_radio_backpack_item.xob"
+   DeflatedModel ""
+  }
+ }
 }

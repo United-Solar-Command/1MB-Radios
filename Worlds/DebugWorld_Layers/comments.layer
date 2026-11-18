@@ -1,0 +1,65 @@
+$grp CommentEntity {
+ {
+  coords 66.968 2.473 229.394
+  m_Comment "Command"
+  m_Size 0.25
+  m_VisibleIngame 1
+  m_TextBackground 1
+ }
+ {
+  coords 69.218 2.473 229.394
+  m_Comment "Alpha"
+  m_Size 0.25
+  m_VisibleIngame 1
+  m_TextBackground 1
+ }
+ {
+  coords 71.437 2.473 229.394
+  m_Comment "Bravo"
+  m_Size 0.25
+  m_VisibleIngame 1
+  m_TextBackground 1
+ }
+ {
+  coords 73.779 2.473 229.394
+  m_Comment "Charlie"
+  m_Size 0.25
+  m_VisibleIngame 1
+  m_TextBackground 1
+ }
+ {
+  coords 76.262 2.473 229.394
+  m_Comment "Delta"
+  m_Size 0.25
+  m_VisibleIngame 1
+  m_TextBackground 1
+ }
+ {
+  coords 78.393 2.473 229.394
+  m_Comment "Echo"
+  m_Size 0.25
+  m_VisibleIngame 1
+  m_TextBackground 1
+ }
+ {
+  coords 80.708 2.473 229.394
+  m_Comment "Foxtrot"
+  m_Size 0.25
+  m_VisibleIngame 1
+  m_TextBackground 1
+ }
+ {
+  coords 85.48 2.473 229.394
+  m_Comment "Airforce"
+  m_Size 0.25
+  m_VisibleIngame 1
+  m_TextBackground 1
+ }
+ {
+  coords 90.259 2.473 229.394
+  m_Comment "Medical"
+  m_Size 0.25
+  m_VisibleIngame 1
+  m_TextBackground 1
+ }
+}

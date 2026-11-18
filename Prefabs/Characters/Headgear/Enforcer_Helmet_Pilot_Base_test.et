@@ -1,0 +1,18 @@
+GameEntity : "{BCA4084A33D5CD52}Prefabs/Characters/Headgear/Enforcer_Helmet_Base.et" {
+ ID "5112706CD4157AC7"
+ components {
+  BaseRadioComponent "{697F15D7E2143C6D}" {
+   Enabled 1
+   "Encryption key" "PewPewAirforce"
+   Transceivers {
+    RadioTransceiver "{697F15D7A049D884}" {
+     "Transmitting Range" 5000
+     "Max tunable frequency" 60000
+    }
+   }
+  }
+  SCR_RadioComponent "{6AE3156384F0C484}" {
+   Enabled 1
+  }
+ }
+}

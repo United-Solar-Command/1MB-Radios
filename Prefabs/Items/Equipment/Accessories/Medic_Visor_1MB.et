@@ -1,0 +1,20 @@
+GenericEntity : "{37CA0A833AC5A969}Prefabs/Items/Equipment/Accessories/Medic_Visor.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  BaseRadioComponent "{6AE302952D048564}" {
+   "Encryption key" "PewPewMedical"
+   "Turned on" 1
+   Transceivers {
+    RadioTransceiver "{6AE3029516AB9B92}" {
+     ChannelFrequency 59000
+     "Transmitting Range" 5000
+     "Min tunable frequency" 59000
+     "Max tunable frequency" 60000
+    }
+   }
+  }
+  SCR_RadioComponent "{6AE302952E4D00EF}" {
+   m_bCanBeHeld 0
+  }
+ }
+}
